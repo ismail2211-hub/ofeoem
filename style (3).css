@@ -1,0 +1,54 @@
+h1{
+    background-color: cornflowerblue;
+    color: black;
+    border: 3px solid red;
+    border-radius: 20px;
+}
+span{
+    background-color: yellow;
+}
+h3{
+    color: green;
+}
+.m1{
+    background-color: yellow;
+}
+.m2{
+    color: red;
+    background-color: white;
+}
+button{
+    text-align: center;
+    background-color: cornflowerblue;
+    color: white;
+    border: 0px solid #000;
+    width: 200px;
+    height: 30px;
+}
+
+td,th{
+    border: 1px solid #000;
+    border-collapse: collapse;
+}
+.b1{
+    background-color: black;
+    color: white;
+    text-align: center;
+}
+.b{
+    background-color: blue;
+    color: white;
+}
+.g{
+    background-color: green;
+    color: white;
+}
+.r{
+    color: white;
+    background-color: red;
+    text-align: center;
+}
+table{
+    width: 700px;
+    height: 150px;
+}
